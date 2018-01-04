@@ -1,0 +1,25 @@
+{
+  "name": "weixin_mp",
+  "version": "1.0.0",
+  "description": "微信跳一跳刷分小程序",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinjiaxing/weixin_mp.git"
+  },
+  "author": "jinjiaxing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinjiaxing/weixin_mp/issues"
+  },
+  "homepage": "https://github.com/jinjiaxing/weixin_mp#readme"
+}
